@@ -1,0 +1,56 @@
+.faster-one-regular {
+    font-family: "Days One", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+body{
+    font-family: Days One;
+    background-color: rgb(129, 187, 187);
+}
+
+.about {
+    background: url(https://gaming-cdn.com/images/news/articles/4717/cover/1000x563/subnautica-2-developers-clarify-multiplayer-and-gaas-model-cover65c4e7d0cc12f.jpg);
+    opacity: 0.8;
+    border: 1px solid black;
+    margin: 0 auto;
+    color: rgb(255, 255, 255);
+    width: 1000px;
+    height: 565px;
+}
+
+.more{
+    color: white;
+    width: 300px;
+    height: 600px;
+    background-color: rgba(250, 235, 215, 0.404);
+    margin: 50px;
+}
+.pic{
+    opacity: 0.9;
+    z-index: -1;
+}
+.sub {
+    z-index: 1;
+    margin: 15px;
+   
+}
+.game{
+    color: white;
+    width: 300px;
+    height: 600px;
+    background-color: rgba(250, 235, 215, 0.404);
+    margin: 50px;
+}
+.all{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.diff{
+    color: white;
+    width: 300px;
+    height: 600px;
+    background-color: rgba(250, 235, 215, 0.404);
+    margin: 50px;
+}
